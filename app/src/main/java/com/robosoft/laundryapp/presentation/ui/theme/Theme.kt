@@ -1,4 +1,4 @@
-package com.robosoft.laundryapp.ui.theme
+package com.robosoft.laundryapp.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

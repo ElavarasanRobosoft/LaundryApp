@@ -1,4 +1,4 @@
-package com.robosoft.laundryapp.ui.theme
+package com.robosoft.laundryapp.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
